@@ -1,4 +1,7 @@
 # 📊 Portfolio and Credit Risk Analysis
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Finance](https://img.shields.io/badge/Finance-Risk%20Analysis-green.svg)
+![Optimization](https://img.shields.io/badge/Optimization-Portfolio-yellow.svg)
 
 This project implements a comprehensive **risk management framework** covering market risk assessment, portfolio optimization, fixed-income securities modeling, and credit risk evaluation for Brazilian assets. The analysis combines quantitative finance techniques with fundamental analysis to provide actionable insights for investment decisions.
 
